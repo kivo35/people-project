@@ -1,4 +1,7 @@
-# Basic Project
-## This file is modified to include a link to google site
+# People project
 
-[Google](https://google.com)
+## Project which useses the People class to manipulate People instances.
+
+* OOP
+* Java
+* Instances
